@@ -50,6 +50,7 @@ const Add = ({ token }) => {
         setName("");
         setDescription("");
         setSizes([]);
+        setPrice("");
         setImage1(false);
         setImage2(false);
         setImage3(false);
